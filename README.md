@@ -37,7 +37,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=black&logo=React&logoColor=61DAFB&label=)
   ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=Material-ui&logoColor=white)
   ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-  <br/>
   ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
  
  
