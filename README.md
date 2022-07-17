@@ -9,7 +9,7 @@
 
 **Languages and Tools:** 
 
-<!-- Your github readme stats
+<!-- GitHub readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
@@ -33,9 +33,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
   ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
   ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SASS&color=CC6699&logo=SASS&logoColor=FFFFFF&label=)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=black&label=)
   ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=black&logo=React&logoColor=61DAFB&label=)
-  ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=Material-ui&logoColor=white)
+  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF&label=)
   ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
   ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
  
