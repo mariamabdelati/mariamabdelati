@@ -16,16 +16,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/mariamabdelati">
     <img width="55%" align="right" alt="Mariam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mariamabdelati&show_icons=true&hide_border=true" /></a>
   
-  
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
   ![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
   ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
   ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
   ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+  ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=2F4F75&logo=Plotly&logoColor=FFFFFF&label=)
   ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
   ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
+  ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=00599C&logo=C&logoColor=FFFFFF&label=)
   ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
+  ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ED8B00&logo=java&logoColor=FFFFFF&label=)
+  ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF&label=)
   ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
   ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
@@ -34,12 +37,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
   ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&message=SASS&color=CC6699&logo=SASS&logoColor=FFFFFF&label=)
   ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=black&label=)
-  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=black&logo=React&logoColor=61DAFB&label=)
-  ![MUI](https://img.shields.io/static/v1?style=for-the-badge&message=MUI&color=007FFF&logo=MUI&logoColor=FFFFFF&label=)
+  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Material UI](https://img.shields.io/static/v1?style=for-the-badge&message=Material-UI&color=007FFF&logo=MUI&logoColor=FFFFFF&label=)
   ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
   ![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
- 
- 
+  ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=000&logo=markdown&logoColor=FFFFFF&label=)
 </p>
 
 <!-- Visitors -->
