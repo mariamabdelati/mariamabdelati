@@ -1,5 +1,5 @@
 <!-- Title -->
-### Hi there 👋, I am Mariam Abdelati, a Computer Science student at Coventry University.
+### Hi there 👋, I am Mariam Abdelati, a Computer Science graduate from Coventry University. I am currently focused on Ethical Hacking and Cybersecurity with a focus on GRC and AI in Cybersecurity. 
 
 [![GitHub](https://img.shields.io/badge/-mariamabdelati-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mariamabdelati)](https://github.com/mariamabdelati)
 [![Linkedin](https://img.shields.io/badge/-mariam--abdelati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariam-abdelati)](https://www.linkedin.com/in/mariam-abdelati)
